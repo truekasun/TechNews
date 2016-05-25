@@ -1,0 +1,22 @@
+{
+  "news": [
+    {
+      "title": "Microsoft Wants Terrorists to Stop Using Its Services",
+      "image" : "http://i1-news.softpedia-static.com/images/fitted/340x180/microsoft-wants-terrorists-to-stop-using-its-services.jpg",
+      "url": "http://news.softpedia.com/news/microsoft-wants-terrorists-to-stop-using-its-services-504362.shtml",
+      "description": "Microsoft is one of the companies that are fighting against terrorism, and the company has launched a new set of policies that are supposed to help in its efforts to stop such content from being stored on its servers."
+  },
+    {
+      "title": "Microsoft Confirms It’s Working on One Very Requested Windows 10 Mobile Feature",
+      "image" : "http://i1-news.softpedia-static.com/images/fitted/340x180/microsoft-confirms-it-s-working-on-one-very-requested-windows-10-mobile-feature.jpg",
+      "url": "http://news.softpedia.com/news/microsoft-confirms-it-s-working-on-one-very-requested-windows-10-mobile-feature-504361.shtml",
+      "description": "Double Tap to Wake is one of the features missing from Windows 10 Mobile flagships such as Lumia 950 and 950 XL, but available on a number of models upgraded from Windows Phone, so it’s no surprise that Microsoft has been asked by many of its users to introduce it across the entire device lineup."
+  },
+    {
+      "title": "BeagleBone Green Wireless, a Raspberry Pi 3 Competitor, Ships with Built-in WiFi",
+      "image" : "http://i1-news.softpedia-static.com/images/fitted/340x180/beaglebone-green-wireless-a-raspberry-pi-3-competitor-ships-with-built-in-wifi.jpg",
+      "url": "http://news.softpedia.com/news/beaglebone-green-wireless-a-raspberry-pi-3-competitor-ships-with-built-in-wifi-504360.shtml",
+      "description": "SeeedStudio has informed Softpedia about the availability of a new single-board computer (SBC) called SeeedStudio BeagleBone Green Wireless, the first BeagleBone board with built-in Wi-Fi and Bluetooth Low Energy (BLE)."
+  },
+  ]
+}
