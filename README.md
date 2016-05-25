@@ -1,8 +1,8 @@
 TechNews - Android News Application
 ===================
 
-![HomeScreen](https://raw.githubusercontent.com/truekasun/TechNews/master/HomeScreen.png =512x)
-![NewsPage](https://raw.githubusercontent.com/truekasun/TechNews/master/NewsDetailPage.png =512x)
+<img src="https://raw.githubusercontent.com/truekasun/TechNews/master/HomeScreen.png" width="512">
+<img src="https://raw.githubusercontent.com/truekasun/TechNews/master/NewsDetailPage.png" width="512">
 
 **TechNews** is a simple android application that built to reach the latest tech-news based on the [Softpedia News](http://news.softpedia.com/) RSS feeds. There are no android application available for the softpedia news at the moment I'm writing this. The reason I wanted to build this application was to fullfill my need of having an app to read the softpedia news on the go. 
 
