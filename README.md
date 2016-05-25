@@ -6,6 +6,8 @@ TechNews - Android News Application
 
 **TechNews** is a simple android application that built to reach the latest tech-news based on the [Softpedia News](http://news.softpedia.com/) RSS feeds. There are no android application available for the softpedia news at the moment I'm writing this. The reason I wanted to build this application was to fullfill my need of having an app to read the softpedia news on the go. 
 
+DOWNLOAD - **[TechNews.apk](https://github.com/truekasun/TechNews/raw/master/TechNews.apk)** (1.21 MB)
+
 ---------
 
 > **The MIT License (MIT)** 
