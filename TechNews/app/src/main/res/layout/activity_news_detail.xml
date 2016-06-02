@@ -7,8 +7,8 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="me.kasun.technews.NewsDetailActivity"
-    >
+    tools:context="me.kasun.technews.NewsDetailActivity">
+
     <WebView
         android:id="@+id/detail_web_view"
         android:layout_width="match_parent"
